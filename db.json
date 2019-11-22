@@ -3,6 +3,8 @@
     "ad_platform": "admob",
     "ad_time": 30,
     "banner_enable": false,
+    "ads_banner_key": "",
+    "ads_interstitial_key": "",
     "interstitial_enable": false,
     "vote_dialog_enable": true,
     "wallpaper_version": 2,
